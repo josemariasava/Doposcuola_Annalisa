@@ -1,0 +1,10 @@
+# segreti locali: MAI su GitHub
+supabase/.env
+supabase/.env.*
+supabase/.temp/
+supabase/.branches/
+.env
+# sistema
+.DS_Store
+Thumbs.db
+*.tmp.html
